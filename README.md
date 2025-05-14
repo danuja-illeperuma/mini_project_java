@@ -1,4 +1,6 @@
 Faculty Management System
+
+
 A Java-based desktop application for managing faculty-related data. The project allows the addition, updating, and deletion of student records. It uses a GUI interface built with Java Swing and connects to a MySQL database for storing student data.
 
 📁 Project Structure
